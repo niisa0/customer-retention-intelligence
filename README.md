@@ -4,6 +4,8 @@ An interactive customer churn and retention analytics application built with Pyt
 
 The application transforms telecom customer data into actionable retention intelligence by identifying high-impact customer segments, analyzing churn patterns and reported reasons, exploring potential churn drivers, and quantifying financial exposure.
 
+**Live Demo:** [Open the interactive dashboard](https://nisa-retention-intelligence.streamlit.app/)
+
 ## Dashboard Overview
 
 ![Dashboard Overview](assets/dashboard-overview.png)
